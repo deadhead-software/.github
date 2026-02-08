@@ -1,2 +1,2 @@
 # .github
-profile
+Deadhead Software™ is an independent software studio.
